@@ -1,0 +1,22 @@
+# Local credentials and generated media are not part of the skill.
+.env
+.env.*
+*cookies*
+*credentials*
+*.pem
+*.key
+*.sqlite
+*.mp3
+*.m4a
+*.wav
+*.mp4
+*.webm
+*.info.json
+__pycache__/
+*.pyc
+.venv/
+tools/
+models/
+cache/
+work/
+dist/

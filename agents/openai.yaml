@@ -1,0 +1,4 @@
+interface:
+  display_name: "Csir_video_skill"
+  short_description: "快速问答引导的视频精读：转写、自然章节、内容 SVG 与可回查 HTML"
+  default_prompt: "使用 $csir-video-skill 分析我提供的视频，只询问缺失信息，确认后连续执行，生成带时间戳、真实视觉锚点和逐章 SVG 的本地 HTML。"
